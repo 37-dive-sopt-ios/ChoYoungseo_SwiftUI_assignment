@@ -1,0 +1,29 @@
+## ✅ Check List
+- [ ] 막걸리조의 Approve를 받은 후 머지해주세요.
+- [ ] Approve된 PR은 Assigner가 직접 머지해주세요.
+- [ ] 수정 요청이 있다면 반영 후 다시 push해주세요.
+
+---
+
+## 📌 Related Issue  
+- closed #이슈번호
+
+---
+
+## 📎 Work Description 
+- 어떤 기능을 구현했는지 간단히 작성해주세요.  
+- 해결한 문제나 핵심 내용을 요약해서 적어주세요.
+
+---
+
+## 📷 Screenshots  
+
+| 기능/화면 | iPhone 11 Pro | 
+|:---------:|:---------:|
+| A 기능 | <img src="" width="250"> | 
+| B 기능 | <img src="" width="250"> |
+
+---
+
+## 💬 To Reviewers  
+- 리뷰어에게 전달하고 싶은 메시지를 남겨주세요.
